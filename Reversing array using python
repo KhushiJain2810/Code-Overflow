@@ -1,5 +1,0 @@
-# taking input of array
-l = list(map(int,input().split()))
-# reversing the array
-l = l[::-1]
-print(l)

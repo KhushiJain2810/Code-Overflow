@@ -1,9 +1,0 @@
-Read two input integers using input() or raw_input().
-Addition operation using + operator, num1 + num2 adds 2 numbers.
-Subtraction operation using - operator, num1 - num2 right hand operand from left hand operand.
-Multiplication operation using * operator, num1 * num2 multiplies 2 numbers.
-Division operation using / operator, num1 / num2 divides left hand operand by right hand operand.
-Floor Division operation using // operator, num1 // num2 divides left hand operand by right hand operand, here it removes the values after decimal point.
-Modulus % operator when applied returns the remainder when left hand operand is divided by right hand operand num1 % num2.
-Exponential operation using ** operator, num1 ** num2 returns value of num1 num2
-Print the result of each operation.

@@ -1,2 +1,0 @@
-string=input("Enter Your String: ")
-print(f"The Length of the string is{len(string)}")

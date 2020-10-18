@@ -1,3 +1,0 @@
-number = int(input("enter your nuumber: "))
-power=int(input("Enter the power: "))
-print(number**power)

@@ -1,8 +1,0 @@
-import math
-
-number = int(input("Enter any Positive Integer : "))
-exponent = int(input("Enter Exponent Value : "))
-
-power = math.pow(number, exponent)
-
-print("{0} Power {1} = {2}".format(number, exponent, power))

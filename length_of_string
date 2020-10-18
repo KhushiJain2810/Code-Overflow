@@ -1,2 +1,0 @@
-sl = str(input("Enter string:"))
-print('Length of',sl,'is',len(sl))

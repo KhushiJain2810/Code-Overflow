@@ -1,9 +1,0 @@
-n=int(input('Input the number: '))
-def fib(a=0,b=1):
-    if b>=n+1:
-        return a
-    else:
-        print( a ,end=' ')
-        a,b=b,a+b
-        return fib(a,b)
-print(fib())

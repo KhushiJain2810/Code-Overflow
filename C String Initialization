@@ -1,8 +1,0 @@
-// Declare C String without Size
-char name[] = "Tutorial Gateway";
-// Declare String with Size
-char name[50] = "Tutorial Gateway";
-// Declare String of Characters
-char name[] = {'T', 'u', 't', 'o', 'r', 'i', 'a', 'l', 'G', 'a', 't', 'e', 'w', 'a', 'y', '\0'};
-
-char name[16] = {'T', 'u', 't', 'o', 'r', 'i', 'a', 'l',' G', 'a', 't', 'e', 'w', 'a', 'y', '\0'};

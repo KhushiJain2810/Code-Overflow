@@ -1,5 +1,0 @@
-n = int(input())  # taking input of number
-# taking input power value to be counted of n
-p = int(input())
-# printing power
-print(n**p)

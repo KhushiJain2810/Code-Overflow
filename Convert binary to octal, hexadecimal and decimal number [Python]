@@ -1,6 +1,0 @@
-inpt = str(input("Enter binary number\n"))
-
-print("The binary value of", inpt, "is:")
-print(int(inpt, 2),"in decimal")
-print(oct(int(inpt)), "in octal.")
-print(hex(int(inpt)), "in hexadecimal.")

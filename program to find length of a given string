@@ -1,3 +1,0 @@
-# testing len() 
-str1 = "Welcome to python"
-print("The length of the string  is :", len(str1))

@@ -1,3 +1,0 @@
-bin = input ("Enter the binary number: ")
-dec = int(bin, 2)
-print ("Equivalent decimal number: ", dec)

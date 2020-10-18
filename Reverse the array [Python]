@@ -1,3 +1,0 @@
-array=[0,1,30,10,2,42,22,8,41,90,23,5,9]
-arrayReversed = list(reversed(array))
-print(f"Array reversed\n{arrayReversed}")

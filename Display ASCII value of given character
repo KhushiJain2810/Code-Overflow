@@ -1,6 +1,0 @@
-def main():
-	num = input("Enter a single number or character to find the ASCII value: ")
-	while True:
-		print(num,"converted to ASCII is:",ord(num))
-		break
-main()

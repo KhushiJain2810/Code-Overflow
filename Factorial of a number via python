@@ -1,6 +1,0 @@
-num1=int(input("Enter the number : "))
-fact=1;
-for i in range(num1,0,-1):
-    fact=fact*num1
-    num1-=1
-print("The factorial of the number is",fact)

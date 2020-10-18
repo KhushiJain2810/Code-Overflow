@@ -1,3 +1,0 @@
-ch = input("Enter the character: ")
-ascii = ord(ch)
-print("ASCII value of the character is: ", ascii)

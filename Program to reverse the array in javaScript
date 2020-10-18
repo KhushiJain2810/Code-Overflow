@@ -1,7 +1,0 @@
-// Reverse the array
-
-var numbers = [1,2,3,4];
-console.log('Your first array is: ' + numbers);
-
-var reversedArray = numbers.reverse();
-console.log('Your reversed array is: ' + reversedArray);

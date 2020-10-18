@@ -1,8 +1,0 @@
-def rev(arr):
-    #Returning the reversed array using index slicing
-    return arr[-1::-1]
-
-#Taking Array Input
-print('Enter the Array Elements seperated by space(eg: 1 2 3 4): ')
-arr = list(int(x) for x in input().split())
-print(rev(arr))

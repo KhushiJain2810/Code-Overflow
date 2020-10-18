@@ -1,3 +1,0 @@
-n=input("Input the binary number that you want to convert: ")
-a=int(n,2)  
-print("The octal rep. of the given binary number is: ", oct(a))

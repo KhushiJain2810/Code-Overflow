@@ -1,9 +1,0 @@
-function stringLength(string){
-
-  len = string.length;
-  console.log(len);
-}
-
-//Testing
-const string= "string";
-stringLength(string);
